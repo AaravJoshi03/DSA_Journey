@@ -1,0 +1,14 @@
+{
+  "C_Cpp.default.compilerPath": "C:/msys64/ucrt64/bin/g++.exe",
+  "C_Cpp.default.intelliSenseMode": "windows-gcc-x64",
+  "C_Cpp.default.cppStandard": "c++20",
+  "clangd.arguments": [
+    "--query-driver=C:/msys64/ucrt64/bin/g++.exe",
+    "--target=x86_64-w64-windows-gnu",
+    "--background-index"
+  ],
+  "clangd.fallbackFlags": [
+    "-std=c++20",
+    "--target=x86_64-w64-windows-gnu"
+  ]
+}

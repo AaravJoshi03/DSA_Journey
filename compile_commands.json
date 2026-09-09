@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "c:/DSA/DSA_Journey",
+    "command": "C:/msys64/ucrt64/bin/g++.exe -std=c++20 hello.cpp -o hello.exe",
+    "file": "c:/DSA/DSA_Journey/hello.cpp"
+  }
+]
